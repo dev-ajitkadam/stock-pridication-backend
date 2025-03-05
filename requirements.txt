@@ -8,3 +8,4 @@ joblib
 tensorflow
 scikit-learn
 xgboost
+gunicorn
